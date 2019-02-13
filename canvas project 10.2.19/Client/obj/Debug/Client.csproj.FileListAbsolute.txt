@@ -1,0 +1,10 @@
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\Client.exe.config
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\Client.exe
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\Client.pdb
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\canvas project 10.2.19.exe
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\canvas project 10.2.19.pdb
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\bin\Debug\canvas project 10.2.19.exe.config
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\obj\Debug\Client.exe
+C:\Users\HackerU\Downloads\10.2.19-canvas-project-master\canvas project 10.2.19\Client\obj\Debug\Client.pdb
